@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1550443548 source:c:\users\timme\documents\researchproject\finishedcode\researchprojectgraphenelayer\researchprojectgraphene-v2\researchprojectsubfunction-v2.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1553206486 source:c:\users\timme\documents\researchproject\finishedcode\researchprojectgraphenelayer\researchprojectgraphene-v2\grapheneresearchprojectcode-v2.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<pthread.h>
+	<time.h>
+	"ResearchProjectCodeSubFunctionHeader-v2.h"
+	"UpdateFunctions.h"
+
+1551817013 c:\users\timme\documents\researchproject\finishedcode\researchprojectgraphenelayer\researchprojectgraphene-v2\researchprojectcodesubfunctionheader-v2.h
+
+1553211624 source:c:\users\timme\documents\researchproject\finishedcode\researchprojectgraphenelayer\researchprojectgraphene-v2\updatefunctions.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1553206486 c:\users\timme\documents\researchproject\finishedcode\researchprojectgraphenelayer\researchprojectgraphene-v2\updatefunctions.h
+
+1550447148 source:c:\users\timme\documents\researchproject\oldfiles\finishedcode\researchprojectgraphenelayer\researchprojectgraphene-v2\researchprojectsubfunction-v2.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1553215224 source:c:\users\timme\documents\researchproject\oldfiles\finishedcode\researchprojectgraphenelayer\researchprojectgraphene-v2\updatefunctions.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1556397539 source:c:\users\timme\documents\researchproject\oldfiles\finishedcode\researchprojectgraphenelayer\researchprojectgraphene-v2\grapheneresearchprojectcode-v2.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<pthread.h>
+	<time.h>
+	"ResearchProjectCodeSubFunctionHeader-v2.h"
+	"UpdateFunctions.h"
+
+1551820613 c:\users\timme\documents\researchproject\oldfiles\finishedcode\researchprojectgraphenelayer\researchprojectgraphene-v2\researchprojectcodesubfunctionheader-v2.h
+
+1553210086 c:\users\timme\documents\researchproject\oldfiles\finishedcode\researchprojectgraphenelayer\researchprojectgraphene-v2\updatefunctions.h
+

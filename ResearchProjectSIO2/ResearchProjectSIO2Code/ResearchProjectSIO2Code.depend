@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1550443548 source:c:\users\timme\documents\researchproject\finishedcode\researchprojectsio2\researchprojectsio2code\researchprojectsubfunction.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1550630334 source:c:\users\timme\documents\researchproject\finishedcode\researchprojectsio2\researchprojectsio2code\sio2researchprojectcode.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<pthread.h>
+	<time.h>
+	"ResearchProjectCodeSubFunctionHeader.h"
+
+1550425538 c:\users\timme\documents\researchproject\finishedcode\researchprojectsio2\researchprojectsio2code\researchprojectcodesubfunctionheader.h
+
+1550447148 source:c:\users\timme\documents\researchproject\oldfiles\finishedcode\researchprojectsio2\researchprojectsio2code\researchprojectsubfunction.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

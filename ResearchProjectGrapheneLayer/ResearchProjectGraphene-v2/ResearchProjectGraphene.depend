@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1550443548 source:c:\users\timme\documents\researchproject\finishedcode\researchprojectgraphenelayer\researchprojectgraphene\researchprojectsubfunction.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1551808035 source:c:\users\timme\documents\researchproject\finishedcode\researchprojectgraphenelayer\researchprojectgraphene\grapheneresearchprojectcode.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<pthread.h>
+	<time.h>
+	"ResearchProjectCodeSubFunctionHeader.h"
+
+1550425538 c:\users\timme\documents\researchproject\finishedcode\researchprojectgraphenelayer\researchprojectgraphene\researchprojectcodesubfunctionheader.h
+

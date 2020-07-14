@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1550434599 source:c:\users\timme\documents\researchproject\polishedcode\researchproject\researchprojectcodebesselfunction.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<pthread.h>
+	<time.h>
+	"ResearchProjectCodeSubFunctionHeader.h"
+
+1550424242 source:c:\users\timme\documents\researchproject\polishedcode\researchproject\researchprojectsubfunction.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1550425538 c:\users\timme\documents\researchproject\polishedcode\researchproject\researchprojectcodesubfunctionheader.h
+
+1550498763 source:c:\users\timme\documents\researchproject\finishedcode\researchprojectbessel\researchprojectcodebesselfunction.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<pthread.h>
+	<time.h>
+	"ResearchProjectCodeSubFunctionHeader.h"
+
+1550425538 c:\users\timme\documents\researchproject\finishedcode\researchprojectbessel\researchprojectcodesubfunctionheader.h
+
+1550443548 source:c:\users\timme\documents\researchproject\finishedcode\researchprojectbessel\researchprojectsubfunction.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1550447148 source:c:\users\timme\documents\researchproject\oldfiles\finishedcode\researchprojectbessel\researchprojectsubfunction.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1556499569 source:c:\users\timme\documents\researchproject\oldfiles\finishedcode\researchprojectbessel\researchprojectcodebesselfunction.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<pthread.h>
+	<time.h>
+	"ResearchProjectCodeSubFunctionHeader.h"
+
+1550429138 c:\users\timme\documents\researchproject\oldfiles\finishedcode\researchprojectbessel\researchprojectcodesubfunctionheader.h
+
